@@ -1,0 +1,26 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Daily notes": true,
+    "Custom CSS": true
+  },
+  "hotkeys": {
+    "workspace:split-vertical": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "l"
+      }
+    ]
+  },
+  "alwaysUpdateLinks": true
+}
