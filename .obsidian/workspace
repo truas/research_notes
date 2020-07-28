@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/2020- GilBERT Towards pre-trained word-sense disambiguation with bidirection transformers and lexical databases.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -72,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
     "research/2020- GilBERT Towards pre-trained word-sense disambiguation with bidirection transformers and lexical databases.md",
     "research/2020 - Dont Stop Pretraining Adapt Language Models to Domains and tasks.md",
     "research/2020 - Contextual Embeddings When Are TheyWorth It.md",
-    "research/2020 - (Re)construing Meaning in NLP.md",
-    "_template 1.md"
+    "research/2020 - (Re)construing Meaning in NLP.md"
   ]
 }
