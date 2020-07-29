@@ -1,6 +1,6 @@
 ---
 - Auhtor: [[Kevin Clark]] [[Christopher Manning]] [[Quoc Le]]
-- Topics: [[nlp_transformers]] [[x]]
+- Topics: [[nlp_transformers]] [[nlp_lm]]
 - Venue: #ICLR
 - Year: #2020
 ---
