@@ -1,28 +1,52 @@
 ---
-- Link: <if exists>
 - Auhtor: [[Mike Lewis]] [[Luke Zettlemoyer]] [[Omer Levy]]
-- Topics: [[nlp_transformers]]	]] [[#topic2]]
+- Topics: [[nlp_transformers]] [[#ann_architecture]] [[nlp_lm]]
 - Venue: #arXiv
 - Year: #2019
 ---
 ### Techniques
-- 
+- Denoising [[auto-encoder]] that maps a corrupted text to the original one it was derived from
 -
 ---
 ### Goal
+- Combine [[bi-directional]] ([[BERT]]) and [[auto-regressive]] ([[GPT]]) [[Transformers]]
 ---
 ### Major Contributions
 - They corrupt the input text with a noisy functions and try to reconstruct the original text using a [[Seq2Seq]] model
-- Combines [[bi-directional]] and [[auto-regressive]] [[Transformers]]
 ---
 ### Secondary Contribution
 - Best approaches for corrupting words: random shuffling the order os the sentences and #in-filling scheme
-- Works good for [[text-generation]]
+- Works good for [[text-generation]] [[text-summarization]]
+- New train scheme for [[machine-translation]]
 ---
 ### Limitations/Future Work
+- Intead of corrupting by masking, one could use actual contrastive examples or samples that would produce a wrong word-token
+- Should we use one single corruption scheme or this should be tailored for each task?
 ---
 ### Notes (Try to use backlinks)
-- The input text is encoded
+- The input text is encoded in a [[Seq2Seq]] model with a  [[bi-directional]] [[encoder]] over corrupted text and a left-to-rigth  [[auto-regressive]] [[decoder]]
 ![[2019_BART_Schematics.png]]
-
+- Available through #hugging-face
+- +10% parameters in comparision to [[BERT]]
+- Noise tranformations from [[BART]]: 
+	- #token-masking : same as [[BERT]]
+	- #token-deletion : randon tokens deleted
+	- #sentence-permutation: shuffles sentences
+	- #document-rotation: a specific token is selected to start the document
+	- #text-infilling : inspired by [[SpanBERT]] text tokens are masked as one unit. Similar to masking.
+![[2019_BART_noising_transformation.png]]
+- Tasks: #SQuAD, #MNLI, #ELI5 (abstractive QA), #XSum (news summarization), #ConvAI2 (dialogue response generation), #CNN-DM (new summary)
+- Compared with:
+	- Language model
+	- [[MLM|Masked Language Model]]
+	- #Multitask-Language-Model - as in [[UniLM]]
+	- Masked [[Seq2Seq]] - inspired by [[MASS]] - This is probably the most similar model to [[BART]]
+	- Permuted Language Model
+	- [[UniLM]], [[XLNet]], [[RoBERTa]], [[BERT]] base
+- Takeaways from experiments:
+	- Performance of pre-training methods depends on the task (¯\_(ツ)_/¯)
+	- #toking-masking is the best noise transformation, the others do not perform that well
+	- Left-to-right pre-training is good for text generation
+	- [[bi-directional]] encoders are crucial for #SQuAD 
+	- Pre-training objective is not the holy grail in the architecture, other factors such as positional embeddings and segment-level structure are also important
 ---
