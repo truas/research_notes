@@ -25,7 +25,7 @@
 ---
 ### Notes (Try to use backlinks)
 - The input text is encoded in a [[Seq2Seq]] model with a  [[bi-directional]] [[encoder]] over corrupted text and a left-to-rigth  [[auto-regressive]] [[decoder]]
-![[2019_BART_Schematics.png]]
+![[2019_BART_schematics.png]]
 - Available through #hugging-face
 - +10% parameters in comparision to [[BERT]]
 - Noise tranformations from [[BART]]: 
