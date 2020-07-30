@@ -1,6 +1,9 @@
+### ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+
 ---
-- Title: ALBERT: A Lite BERT For Self-Supervised Learning of Language Representations
-- Auhtor: [[fZhenzhong Lan]] [[Radu Soricut]]
+- [Zotero Select Link](zotero://select/groups/2480461/items/YUQIX8F3)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/YUQIX8F3)
+- Author: [[fZhenzhong Lan]] [[Radu Soricut]]
 - Topics: [[nlp_transformers]] [[#distillation]] [[train_arc]] [[SOP]]
 - Venue: #ICLR
 - Year: #2019 #2020
@@ -15,7 +18,7 @@
 ---
 ### Major Contributions
  - This paper proposes three modifications of [[2019_BERT]] type models two of which is concerned with parameter sharing and one with a new auxiliary loss. 
-- [[2019_ALBERT]] is 1.7x faster and has 18x fewer parameters than [[2019_BERT]] large
+- [[_2019_ALBERT]] is 1.7x faster and has 18x fewer parameters than [[2019_BERT]] large
 ---
 ### Secondary Contribution
 -  Cross-Layer parameter sharing get better performance on language modeling and subject-verb agreement than the vanilla [[Transformers]]
@@ -34,6 +37,6 @@
 - Use [[GELU]] non-linearity
 - WordPiece embeddings are meant to learn context-independent representations
 - Hidden-layer embeddings are meant to learn context-dependent representations
-- L2 distances and cosine similarity show [[2019_ALBERT]] embeddings are oscillating, rather than converging
-	- transitions from layer to layer in are smoother in [[2019_ALBERT]]
+- L2 distances and cosine similarity show [[_2019_ALBERT]] embeddings are oscillating, rather than converging
+	- transitions from layer to layer in are smoother in [[_2019_ALBERT]]
 ---

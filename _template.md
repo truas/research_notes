@@ -1,18 +1,13 @@
-<!--
-filename: <Year - title>
-
+### Add title here
 ---
-- Title: official title
-- Auhtor: [[first author]] [[last auhtor]] [[relevant other]]
-- Topics: [[topic1]] [[#topic2]]
+- [Zotero Select Link](paste here)
+- [Zotero URI](paste here)
+- Authors: [[first author]] [[last auhtor]] [[relevant other]]
+- Topics: [[topic1]] [[topic2]]
 - Venue: #venue
 - Year: #year
 ---
 ### Techniques
--
--
----
-### Goal
 ---
 ### Major Contributions
 ---
@@ -22,4 +17,3 @@ filename: <Year - title>
 ---
 ### Notes (Try to use backlinks)
 ---
--- >

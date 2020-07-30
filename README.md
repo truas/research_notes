@@ -1,7 +1,11 @@
-# Notes
+# Obsidian Note Taking
 
-This is a potato
+This repository serves to store the knowledge we accumulate through extensive reading during our research in an organized structure. See this as your second brain where you can follow thoughts from weeks ago and connect them to recent paper reads. Obsidian features so-called [[backlinks]] that are super useful to organize and connect your thoughts. We will explain in the following how to use backlinks and how to use this repository.
 
-This is a new potato that I want to share
 
-These are more potatoes
+![[Getting Started]]
+
+![[Naming Conventions]]
+
+![[What not to do]]
+

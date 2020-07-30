@@ -1,5 +1,9 @@
+### ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+
 ---
-- Auhtor: [[Kevin Clark]] [[Christopher Manning]] [[Quoc Le]]
+- [Zotero Select Link](zotero://select/groups/2480461/items/QLQEHE2U)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/QLQEHE2U)
+- Author: [[Kevin Clark]] [[Christopher Manning]] [[Quoc Le]]
 - Topics: [[nlp_transformers]] [[nlp_lm]]
 - Venue: #ICLR
 - Year: #2020

@@ -1,6 +1,10 @@
+### (Re)construing Meaning in NLP
+
 ---
-- Auhtor: [[Sean Trott]] [[Nathan Schneider]]
-- Tags: [[nlp_theory]] [[semantics]] [[NLP]]
+- [Zotero Select Link](zotero://select/groups/2480461/items/BZLXILBV)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/BZLXILBV)
+- Author: [[Sean Trott]] [[Nathan Schneider]]
+- Topics: [[nlp_theory]] [[semantics]] [[NLP]]
 - Venue: #ACL
 - Year: #2020
 ---

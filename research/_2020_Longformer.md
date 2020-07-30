@@ -1,5 +1,8 @@
+### Longformer: The Long-Document Transformer
 ---
-- Auhtor: [[Iz Beltagy]] [[Arman Cohan]] [[Matthew Peters]]
+- [Zotero Select Link](zotero://select/groups/2480461/items/4FSEM9ZX)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/4FSEM9ZX)
+- Author: [[Iz Beltagy]] [[Arman Cohan]] [[Matthew Peters]]
 - Topics: [[nlp_attention]] [[nlp_transformers]] [[nlp_lm]] [[ann_architecture]]
 - Venue: #arXiv
 - Year: #2020

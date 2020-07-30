@@ -1,5 +1,9 @@
+### Don't Stop Pretraining Adapt Language Models to Domains and tasks
+
 ---
-- Auhtor: [[Suchin Gururangan]] [[Noah Smith]] [[Iz Beltagy]]
+- [Zotero Select Link](zotero://select/groups/2480461/items/NX6B6TGV)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/NX6B6TGV)
+- Author: [[Suchin Gururangan]] [[Noah Smith]] [[Iz Beltagy]]
 - Topics: [[nlp_lm]] [[nlp_task]] [[nlp_lm]]
 - Venue: #ACL
 - Year: #2020

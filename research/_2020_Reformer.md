@@ -1,5 +1,8 @@
+### Reformer: The Efficient Transformer
 ---
-- Auhtor: [[Nikita Kitev]] [[Anselm Levskaya]]
+- [Zotero Select Link](zotero://select/groups/2480461/items/2PLB3BA3)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/2PLB3BA3)
+- Author: [[Nikita Kitev]] [[Anselm Levskaya]]
 - Topics: [[nlp_transformers]] [[#nlp_attention]] [[nlp_lm]] [[ann_architecture]]
 - Venue: #ICLR
 - Year: #2020
@@ -8,7 +11,7 @@
 ### Techniques
 - [[attention]] improvement that replaces the dot product  by one using [[LSH|Locality-Sensitive-Hashing]]Locally-Sensitivity-Hashing]]
 - Use reversible residual layers instead of standard residuals
-- [[2019_BART]]
+- [[_2019_BART]]
 ---
 ### Goal
  - Do large [[Transformers]] models require huge resources or are they inefficient?

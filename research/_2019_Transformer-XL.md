@@ -1,6 +1,8 @@
+### Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 ---
-- Title: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
-- Auhtor: [[Zihang Dai]] [[Ruslan Salakhutdinov]] [[Quoc Le]]
+- [Zotero Select Link](zotero://select/groups/2480461/items/QZ97WDKX)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/QZ97WDKX)
+- Author: [[Zihang Dai]] [[Ruslan Salakhutdinov]] [[Quoc Le]]
 - Topics: [[nlp_transformers]] [[SOP]] [[relative positioning]]
 - Venue: #ACL 
 - Year: #2019
@@ -30,8 +32,8 @@
 - Chuncking long sequences lead to context fragmentation (physical constrains do not let us process infinite ones)
 - The relative positional encoding was explored in machine translation and music generation (2018) - which the authors claim to be superior
 - Benchmarks: #enwik8, #WikiText-103, #text8, #1BWord (One Billion Word)
-- [[2019_Transformer-XL]] is able to structurally maintain the sectional arrangement of Wikipedia.
-- [[2019_Transformer-XL]] L manages to semantically stay on the same topic throughout the course of generation.
+- [[_2019_Transformer-XL]] is able to structurally maintain the sectional arrangement of Wikipedia.
+- [[_2019_Transformer-XL]] L manages to semantically stay on the same topic throughout the course of generation.
 - Long-range references are common in the generated text.
-- [[2019_Transformer-XL]] often generates novel content that is not present in the training data.
+- [[_2019_Transformer-XL]] often generates novel content that is not present in the training data.
 --- 

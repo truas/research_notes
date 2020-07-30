@@ -1,6 +1,10 @@
+### Contextual Embeddings: When Are They Worth It?
+
 ---
-- Auhtor: [[Simran Arora]] [[Christopjer Ré]]
-- Tags: [[nlp_embeddings]] [[nlp_transformers]]
+- [Zotero Select Link](zotero://select/groups/2480461/items/ZEYDNTTB)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/ZEYDNTTB)
+- Author: [[Simran Arora]] [[Christopjer Ré]]
+- Topics: [[nlp_embeddings]] [[nlp_transformers]]
 - Venue: #ACL
 - Year: #2020
 ---
