@@ -8,7 +8,7 @@
 ### Techniques
 - [[attention]] improvement that replaces the dot product  by one using [[LSH|Locality-Sensitive-Hashing]]Locally-Sensitivity-Hashing]]
 - Use reversible residual layers instead of standard residuals
-- 
+- [[2019_BART]]
 ---
 ### Goal
  - Do large [[Transformers]] models require huge resources or are they inefficient?

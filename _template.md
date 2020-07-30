@@ -2,7 +2,7 @@
 filename: <Year - title>
 
 ---
-- Link: <if exists>
+- Title: official title
 - Auhtor: [[first author]] [[last auhtor]] [[relevant other]]
 - Topics: [[topic1]] [[#topic2]]
 - Venue: #venue
