@@ -14,4 +14,5 @@ networks via knowledge distillation for natural language understanding]]
 - [ ] [[2015 - Siamese Neural Networks for One-shot Image Recognition]]
 - [ ] [[2016 - One-shot Learning with Memory-Augmented Neural Networks]]
 - [ ] [[2019 - Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding]]
+- [ ] [[_2020_NLP_training_cost]]
 

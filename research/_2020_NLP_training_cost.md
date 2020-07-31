@@ -4,7 +4,7 @@
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/S6GRXIHC)
 - Authors: [[Or Sharir]] [[Barak Peleg]]
 - Topics: [[nlp_lm]] [[ann_architecture]] [[nlp]] [[ann_cost]] [[nlp_cost ]]
-- Venue: #venue
+- Venue: #arXiv 
 - Year: #2020
 ---
 ### Techniques
