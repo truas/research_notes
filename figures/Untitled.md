@@ -1,3 +1,3 @@
-<!-- paste figures here so Obsidian creates a "loose" figure file -- >
+Paste figures here so Obsidian can create a "loose" figure file 
 ![[Pasted image.png]]
 
