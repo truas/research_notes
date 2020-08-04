@@ -15,21 +15,22 @@
 
 ---
 ### Goal
----
 - To create a Multi-Task model for learning representations across multiple NLU tasks.
+---
+
 
 ### Major Contributions
----
 - Train one model on multiple tasks to perform each of those tasks with high accuracy
+---
 
 ### Secondary Contribution
----
 - Higher performance for other data sets with fewer examples than [[BERT]]. High generalization through multiple tasks which leads to higher peformance on new datasets.
+---
 
 ### Limitations/Future Work
----
 - Deeper understanding of model structure sharing in multi task learning
 - A more effective training method that leverages relatedness among multiple tasks, for both fine-tuning and pre-training [[UniLM]].
+---
 
 ### Notes (Try to use backlinks)
 ---

@@ -3,7 +3,7 @@
 ---
 - [Zotero Select Link](zotero://select/groups/2480461/items/YUQIX8F3)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/YUQIX8F3)
-- Author: [[fZhenzhong Lan]] [[Radu Soricut]]
+- Author: [[Zhenzhong Lan]] [[Radu Soricut]]
 - Topics: [[nlp_transformers]] [[#distillation]] [[train_arc]] [[SOP]]
 - Venue: #ICLR
 - Year: #2019 #2020

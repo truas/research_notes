@@ -1,0 +1,12 @@
+- Improving language understanding by generative pre-training
+- Exploring the limits of transfer learning with a unified text-to-text transformer, 2019
+- Few-shot Text Classification with Distributional Signatures
+- A Neural Conversational Model
+- Cited by [[_2020_Scaling_laws_for_neural_LMs]]
+	- An empirical model of large-batch training
+	- Deep learning scaling is predictable, empirically
+	- Beyond human-level accuracy: Computational challenges in deep learning
+	- Growing a brain: Fine-tuning by increasing model capacity
+	- Automatic layer growing in deep convolutional networks
+	- Generating wikipedia by summarizing long sequences.
+	- Efficient training of giant neural networks using pipeline parallelism.

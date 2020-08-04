@@ -1,0 +1,4 @@
+- Plagiarism (Paraphrase Detection)
+- General NLU (SuperGlue)
+- Bonus Tasks:
+	- Sentiment Analysis ([Multilingual Emoji](https://competitions.codalab.org/competitions/17344), [Irony Detection](https://competitions.codalab.org/competitions/17468))

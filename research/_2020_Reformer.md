@@ -38,4 +38,3 @@
 - In [[LSH]] is when a hashing scheme assign each vector `x`  to a hash `h(x)` if nearby vectors get the same hash with high probability and distant ones do not.
 - ![[2020_Reformer_LSH.png]]
 ---
-
