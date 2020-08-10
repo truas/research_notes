@@ -17,7 +17,7 @@
 -
 ---
 ### Goal
-- Improve training architectures from previous [[Transformers]] such as [[BERT]]
+- Improve training architectures from previous [[Transformers]] such as [[_2018_BERT]]
 	- The [[MLM]] task is not taking advantage of the masked tokens properly
 ---
 ### Major Contributions

@@ -13,10 +13,10 @@
 ### Goal
 ---
 ### Major Contributions
----
+
 Applies the Knowledge Distillation proposed by [[2015 - Distilling the Knowledge in a Neural Network]] to multi-task learning in NLP with neural networks.
 
-
+---
 ### Secondary Contribution
 ---
 ### Limitations/Future Work

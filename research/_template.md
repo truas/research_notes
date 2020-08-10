@@ -7,8 +7,6 @@
 - Venue: #venue
 - Year: #year
 ---
-### Techniques
----
 ### Major Contributions
 ---
 ### Secondary Contribution

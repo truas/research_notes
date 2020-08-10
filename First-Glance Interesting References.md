@@ -1,12 +1,21 @@
-- Improving language understanding by generative pre-training
-- Exploring the limits of transfer learning with a unified text-to-text transformer, 2019
-- Few-shot Text Classification with Distributional Signatures
-- A Neural Conversational Model
+- [X] Improving language understanding by generative pre-training
+- [X] Exploring the limits of transfer learning with a unified text-to-text transformer, 2019
+- [X] Few-shot Text Classification with Distributional Signatures
+- [X] A Neural Conversational Model
 - Cited by [[_2020_Scaling_laws_for_neural_LMs]]
 	- An empirical model of large-batch training
-	- Deep learning scaling is predictable, empirically
-	- Beyond human-level accuracy: Computational challenges in deep learning
-	- Growing a brain: Fine-tuning by increasing model capacity
+	- [X] Deep learning scaling is predictable, empirically
+	- [X] Beyond human-level accuracy: Computational challenges in deep learning
+	- [X] Growing a brain: Fine-tuning by increasing model capacity
 	- Automatic layer growing in deep convolutional networks
-	- Generating wikipedia by summarizing long sequences.
+	- Generating Wikipedia by summarizing long sequences.
 	- Efficient training of giant neural networks using pipeline parallelism.
+- From [this medium blog post](https://towardsdatascience.com/iclr-2020-nlp-highlights-511deb99b967)
+	- Quantum inspired
+		- word2ket: SPACE-EFFICIENT WORD EMBEDDINGS INSPIRED BY QUANTUM ENTANGLEMENT
+		- Quantum Algorithms for Deep Convolutional Neural Networks
+	- Multilingual
+		- [X] Cross-Lingual Ability of Multilingual BERT: An Empirical Study
+		- [X] Massively Multilingual Sparse Word Representations 
+		- Multilingual Alignment of Contextual Word Representations
+		- Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework

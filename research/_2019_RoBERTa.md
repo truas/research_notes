@@ -8,15 +8,15 @@
 - Year: #2019
 ---
 ### Techniques
-- [[_2019_BERT]]
+- [[_2018_BERT]]
 ---
 ### Major Contributions
-- Replicate, simplify, and better training tune of [[_2019_BERT]]
-- Hyperparameter adjustments to [[_2019_BERT]]
+- Replicate, simplify, and better training tune of [[_2018_BERT]]
+- Hyperparameter adjustments to [[_2018_BERT]]
 - Longer training with big batches
-- Removal of [[NSP]] from [[_2019_BERT]]
+- Removal of [[NSP]] from [[_2018_BERT]]
 - Training of longer sequences
-- Dynamically changing the masking pattern applied to the training data instead of the fixed used in [[_2019_BERT]]
+- Dynamically changing the masking pattern applied to the training data instead of the fixed used in [[_2018_BERT]]
 ---
 ### Secondary Contribution
 - Using individual sentences hurs performance on downstream tasks

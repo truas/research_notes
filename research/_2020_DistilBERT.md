@@ -8,7 +8,7 @@
 - Year: #2020
 ---
 ### Techniques
--[[_2019_BERT]]
+-[[_2018_BERT]]
 	- Triple loss combining language modeling (¯\_(ツ)_/¯):
 		- removing [[MLM]]
 		- 
@@ -17,7 +17,7 @@
 
 ---
 ### Major Contributions
-- Distilled version of [[_2019_BERT]]:
+- Distilled version of [[_2018_BERT]]:
 	- 40% of its size
 	- 60% faster
 	- 97% of its language understanding capabilities

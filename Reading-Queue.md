@@ -5,7 +5,7 @@
 - [X] [[_2019_Multi_Task_DNN_for_NLU]]
 - [X] [[_2020_Scaling_laws_for_neural_LMs]]
 - [ ] [[_2019_UniLM]]
-- [ ] [[_2019_XLNet]]
+- [X] [[_2019_XLNet]]
 - [ ] [[_2019_GPT-2]]
 - [ ] [[2019 - Emotion Cause Pair Extraction: A new Task to Emotion Analysis in Texts]]
 - [ ] [[2019 - Improving multi-task deep neural

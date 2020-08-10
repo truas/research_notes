@@ -24,7 +24,7 @@
 ---
 
 ### Secondary Contribution
-- Higher performance for other data sets with fewer examples than [[BERT]]. High generalization through multiple tasks which leads to higher peformance on new datasets.
+- Higher performance for other data sets with fewer examples than [[_2018_BERT]]. High generalization through multiple tasks which leads to higher performance on new datasets.
 ---
 
 ### Limitations/Future Work

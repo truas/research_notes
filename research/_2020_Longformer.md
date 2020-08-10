@@ -14,7 +14,7 @@
 ### Goal
 ---
 ### Major Contributions
-- Expands the input sequence lenght of [[BERT]] from 512 to 2048 (4x)
+- Expands the input sequence lenght of [[_2019_BERT]] from 512 to 2048 (4x)
 - New attention architectures that do nor grow quadractically
 ---
 ### Secondary Contribution

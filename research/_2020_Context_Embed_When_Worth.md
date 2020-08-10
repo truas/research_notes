@@ -10,7 +10,7 @@
 ---
 
 ### Techniques
-- [[BERT]]
+- [[_2019_BERT]]
 - [[GloVe]]
 
 ---

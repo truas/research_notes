@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/I4LRGFLG)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/I4LRGFLG)
 - Authors: [[Yu-Xiong Wang]] [[Martial Hebert]]
-- Topics: [[topic1]] [[topic2]]
+- Topics: [[NLP_ANN_dynamic_architecture]]
 - Venue: #CVPR
 - Year: #2019
 ---
@@ -21,6 +21,7 @@
 ---
 ### Notes (Try to use backlinks)
 - The paper explores two approaches of adding units: going deeper (more layers) and wider (more channels per layer).
+- Connection to [[_2020_Scaling_laws_for_neural_LMs]], architecture is not so important but as capacity increases, so does performance. So maybe it is sufficient to just make the model larger (w.r.t. normalization of new layers).
 ---
 
 

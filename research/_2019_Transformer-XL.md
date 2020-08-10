@@ -12,18 +12,16 @@
 - relative positional encoding
 
 ---
-### Goal
----
 ### Major Contributions
 - Learns dependency beyond a fixed length without disrupting temporal coherence
-- Resolves the contex fragmentation problem. They extend the context processed by the model
+- Resolves the context fragmentation problem. They extend the context processed by the model
 - Relative positional encoding instead of absolute ones, to allow state reuse without causing temporal confusion
 ---
 ### Secondary Contribution
-- direct connections between long-distance word pairs baked in attention mechanisms might ease optimization and enable the learning of long-term dependency
+- Direct connections between long-distance word pairs baked in attention mechanisms might ease optimization and enable the learning of long-term dependency
 ---
 ### Limitations/Future Work
-- The idea of considering previous context window is analogous to having a longe input.
+- The idea of considering previous context window is analogous to having a longer input.
 - No very clear how they freeze the context input
 ---
 ### Notes (Try to use backlinks)
