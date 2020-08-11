@@ -1,3 +1,5 @@
+
+
 - [X] Improving language understanding by generative pre-training
 - [X] Exploring the limits of transfer learning with a unified text-to-text transformer, 2019
 - [X] Few-shot Text Classification with Distributional Signatures
@@ -19,3 +21,11 @@
 		- [X] Massively Multilingual Sparse Word Representations 
 		- Multilingual Alignment of Contextual Word Representations
 		- Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework
+- BERT with SVD
+	- LADABERT: LIGHTWEIGHT ADAPTATION OF BERT THROUGH HYBRID MODEL COMPRESSION
+- From [[_2020_Longformer]]_]]
+	- Sparse Transformer
+	- BlockSparse
+- Pruning
+	- Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned
+	- Pruning of Neural Networks
