@@ -21,6 +21,7 @@ nlp_doc_classification| text, document classification
 nlp_embeddings| word embeddings - mainly static
 nlp_framework| framework, e.g. Gemsin, Tensorflow, PyTorch
 nlp_lexical| lexical databases
+nlp_kg| knowledge graphs
 nlp_lit_rev| literature review
 nlp_lm| languagem modeling training
 nlp_metric| metrics

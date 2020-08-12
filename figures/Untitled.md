@@ -1,1 +1,1 @@
-![[2019_ERNIE_architecture.png]]
+![[2020_ERNIE2.0_multitask_learning.png]]
