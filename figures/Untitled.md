@@ -1,1 +1,1 @@
-![[2020_ERNIE2.0_multitask_learning.png]]
+![[2020_TNF_training_framework.png]]
