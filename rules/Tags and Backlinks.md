@@ -15,6 +15,7 @@ ann_architecture| architecture
 ann_cost| cost functions
 ann_loss| loss functions
 nlp_ann| NLP with ANN focus
+nlp_bias| Bias and ethics concerning NLP models, tasks, data, etc
 nlp_autoregressive| autoregressive models
 nlp_data| datasets, benchmarks,
 nlp_doc_classification| text, document classification
@@ -26,6 +27,7 @@ nlp_lit_rev| literature review
 nlp_lm| languagem modeling training
 nlp_metric| metrics
 nlp_multi_task| multi task learningnlp
+nlp_nlg| natural language generation
 nlp_nlu| natural language understanding
 nlp_ontology| ontology
 nlp_semeval| semeval competitions
