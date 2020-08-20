@@ -1,1 +1,1 @@
-![[2020_TNF_training_framework.png]]
+![[2019_T5_diagram.png]]
