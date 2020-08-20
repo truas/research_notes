@@ -1,1 +1,1 @@
-![[2019_T5_diagram.png]]
+![[2019_Grover_diagram.png]]

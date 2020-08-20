@@ -10,7 +10,7 @@
 ### Major Contributions
 - Main question: Can stylometry be used to distinguish malicious uses of [[LM]] from legitimate ones?
 	- Expose the need for non-stylometry approaches in detecting machine generated misinformation.
-- Include a human evaluation scenario to counter pose the one from [[_2019_Grover_Mega]]
+- Include a human evaluation scenario to counter pose the one from [[_2019_Grover]]
 - zero-shot setting classifier is effective in detecting the fully generated articles of a different model
 - LM-generated falsified texts are very similar in style to LM-generated texts containing true content
 ---
@@ -29,6 +29,6 @@
 - Their dataset creation (i.e. with only a limited number of false statements) is
 aligned with the way humans tend to deceive or lie.
 - Attack and Defense Capabilities: attacker: wishes to generate fake text using a [[LM]]; verifier (adaptive): receives limited examples from 'attacker' and tries to classify it as real or not; they also do a zero-shot, which includes 0 examples from the attacker
--  They used [[_2019_Grover_Mega]] as their discriminator for the experiments
+-  They used [[_2019_Grover]] as their discriminator for the experiments
 -  Cohen's kappa score included for annotation agreement
 ---
