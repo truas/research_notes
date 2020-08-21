@@ -1,1 +1,0 @@
-![[2019_Grover_diagram.png]]
