@@ -1,1 +1,1 @@
-![[2019_AdaptiveAttention_results.png]]
+![[2019_AugmentingSelfAttention_architecture.png]]

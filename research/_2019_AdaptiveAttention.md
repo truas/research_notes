@@ -23,5 +23,6 @@
 - Dynamic attention span: dynamic computation approach, where the attention span change based on the current input [[_2016_ACT]] (Adaptive Computation time for RNN)
 - Smaller attention span has a direct impact on the total number of FLOPS for computation of one-step prediction
 - ![[2019_AdaptiveAttention_results.png]]
+- Experiments were done on #enwik8 and #text8
 - 
 ---
