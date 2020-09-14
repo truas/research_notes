@@ -1,1 +1,1 @@
-![[2019_AugmentingSelfAttention_architecture.png]]
+![[2020_BigBird_architecture]]
