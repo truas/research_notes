@@ -1,1 +1,1 @@
-![[2020_BigBird_architecture]]
+![[2019_Probe_model.png]]
