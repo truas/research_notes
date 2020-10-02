@@ -21,6 +21,6 @@
 - Linear space and time complexity
 - Regular approaches deal with the quadratic cost of attention restricting the attention neighborhood or using low-rank kernels
 - Approximations based on truncated back-propagation (Dai et al., 2019) are also unable to capture long-distance correlations since the gradients are only propagated inside a localized window.
-- ![[2020_Performer_attention]]
+- ![[2020_Performer_attention.png]]
 - Extremely dense paper.... need more reading
 ---
