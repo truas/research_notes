@@ -8,7 +8,7 @@
 - Year: #2017
 ---
 ### Major Contributions
-- Novel dataset [[Trafficking-10k|Human Trafficking Dataset]] (first)
+- Novel dataset [[Trafficking-10K|Human Trafficking Dataset]] (first)
 	- USA and Cananda ads - 1 ad + 5 images from it
 	- Annotated by 2 experts (+5/+1 years on human trafficking)
 	- FOCUS: (1) violation of constituency, and (2) presence of irrelevant information not related to trafficking but present in ads.
@@ -16,9 +16,9 @@
 	- Uses both text [[LSTM]] and images [[T-VGG]] (a variation of [[VGG]] - Very deep convolutional networks for large-scale image)
 ---
 ### Secondary Contribution
-- General word embeddings do not cover most of the unigrams in [[Trafficking-10k]]
+- General word embeddings do not cover most of the unigrams in [[Trafficking-10K]
 	- [[_2014_GloVe]] - 49.7%
-- They train a word embedding model in 1M unlabeled ads from datasets (-[[Trafficking-10k]]) which now covers 94.9% of the dataset. 
+- They train a word embedding model in 1M unlabeled ads from datasets (-[[Trafficking-10K]]) which now covers 94.9% of the dataset. 
 - Often, neither linguistic nor visual cues alone can suffice to classify whether an ad is suspicious
 ---
 ### Limitations/Future Work
