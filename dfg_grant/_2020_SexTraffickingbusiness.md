@@ -1,8 +1,8 @@
 ### Natural Language-based Integration of Online Review Datasets for Identification of Sex Trafficking Businesses
 ---
-- [Zotero Select Link](paste here)
-- [Zotero URI](paste here)
-- Authors: [[first author]] [[last auhtor]] [[relevant other]]
+- [Zotero Select Link](zotero://select/groups/2480461/items/WB65GGRY)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/WB65GGRY)
+- Authors: [[Maria Diaz]] [[Anand Panangadan]]
 - Topics: [[sex_trafficking]] [[human_trafficking]]
 - Venue: #IRI #IEEE
 - Year: #2020
