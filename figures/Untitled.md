@@ -1,1 +1,1 @@
-![[2017_HumanTrafficking10K.png]]
+![[2017_LM_for_HumanTrafficking.png]]
