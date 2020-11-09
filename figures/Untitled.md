@@ -1,1 +1,1 @@
-![[2017_LM_for_HumanTrafficking.png]]
+![[2020_TransfomersSurvey_Taxonomy.png]]
