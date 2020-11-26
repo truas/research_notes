@@ -1,1 +1,1 @@
-![[2020_TransfomersSurvey_Taxonomy.png]]
+![[Pasted image 20201126101356.png]]
