@@ -1,1 +1,1 @@
-![[Pasted image 20201126101356.png]]
+![[2020_TLDR_systems.png]]
