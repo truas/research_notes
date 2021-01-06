@@ -1,1 +1,1 @@
-![[2020_TLDR_systems.png]]
+![[2020_LearningSummarize_diagram.png]]
