@@ -1,1 +1,1 @@
-![[2020_LearningSummarize_diagram.png]]
+![[2020_tBERT_architecture.png]]

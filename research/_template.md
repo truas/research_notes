@@ -1,5 +1,4 @@
 ### Add title here
-### Add title here
 ---
 - [Zotero Select Link](paste here)
 - [Zotero URI](paste here)
