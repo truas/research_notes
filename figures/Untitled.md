@@ -1,1 +1,1 @@
-![[2020_tBERT_architecture.png]]
+![[2018_StabilityWE_DownstreamTask.png]]

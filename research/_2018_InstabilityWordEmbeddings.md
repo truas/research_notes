@@ -1,7 +1,7 @@
 ### Factors Influencing the Surprising Instability of Word Embeddings
 ---
 - [Zotero Select Link](zotero://select/groups/2480461/items/ZE6KNFCC)
-- [Zotero URI](paste here)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/ZE6KNFCC)
 - Authors: [[Laura Wendlandt]] [[lRada Mihalcea]]
 - Topics: [[nlp_embeddings]] [[nlp_instability]]
 - Venue: #NAACL
