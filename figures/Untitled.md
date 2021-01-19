@@ -1,1 +1,1 @@
-![[2018_StabilityWE_DownstreamTask.png]]
+![[2021_SwitchTransformers_TokenRouting.png]]
