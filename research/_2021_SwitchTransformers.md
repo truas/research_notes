@@ -10,6 +10,7 @@
 ### Major Contributions
 - Switch Transformer architecture simplifying and improving [[MoE|Mixture-of-Experts]]
 	- Increase the parameter count while keeping the floating point operations (FLOPs) per example constant. The parameter count, independent of total computation performed, is a separately important axis on which to scale.
+- 
 ---
 ### Secondary Contribution
 ---
@@ -39,4 +40,7 @@
 	- Though this work has focused on extremely large models, we also find that models with as few as two experts improves	performance while easily fitting within memory constraints of commonly available GPUs or TPUs	(details in Appendix D). We therefore believe our techniques are useful in small-scale settings
 - Do sparse models outperform dense models on the speed-accuracy pareto curve?
 	- Yes. Across a wide variety of different models sizes, sparse models outperform dense models per step and on wall clock time.
+
+- hard routing in the Experts: why not do it proportional or weighted?
+- 
 ---
