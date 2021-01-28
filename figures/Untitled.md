@@ -1,1 +1,1 @@
-![[2021_SwitchTransformers_TokenRouting.png]]
+![[2020_Shortformer_diagram.png]]
