@@ -1,1 +1,1 @@
-![[2020_Shortformer_diagram.png]]
+****![[2020_BERT_WSD_Gloss_example.png]]
