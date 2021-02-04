@@ -1,1 +1,1 @@
-****![[2020_BERT_WSD_Gloss_example.png]]
+![[2019_WSDExploitation_architecture.png]]
