@@ -1,1 +1,1 @@
-![[2019_WSDExploitation_architecture.png]]
+![[2020_LM-BFF_example.png]]
