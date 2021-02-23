@@ -1,1 +1,1 @@
-![[2020_LM-BFF_example.png]]
+![[2021_SDCNL_architecture.png]]
