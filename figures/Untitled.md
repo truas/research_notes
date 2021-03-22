@@ -1,1 +1,1 @@
-![[2021_SDCNL_architecture.png]]
+![[2021_P-Tuning.png]]

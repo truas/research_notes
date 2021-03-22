@@ -8,7 +8,7 @@
 - Year: #2017
 ---
 ### Major Contributions
-- improve the online advertising of escort data through Entity Resolution
+- improve the identification of online advertising of escort data through Entity Resolution
 ---
 ### Secondary Contribution
 - Most

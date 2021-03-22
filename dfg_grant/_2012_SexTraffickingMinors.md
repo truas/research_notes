@@ -16,8 +16,6 @@
 	- typing mistakes
 	- limited writing skilss - deliberately or not
 	- encoded/hidden phone numbers - posted as pictures, 2to 3four33,2i2, etc
-	- 
-	- 
 ---
 ### Limitations/Future Work
 ---
