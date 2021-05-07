@@ -1,1 +1,1 @@
-![[2019_KagNet_architecture.png]]
+![[2019_ModelCardExample.png]]
