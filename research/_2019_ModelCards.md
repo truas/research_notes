@@ -14,6 +14,8 @@
 ### Secondary Contribution
 ---
 ### Limitations/Future Work
+- Can these card be published/index/cited by themselves?
+- Is there any support from scientific venues to publish this kind of material, or allow it to be added as an appendix?
 ---
 ### Notes (Try to use backlinks)
 - There are no standardized documentation procedures to communicate the performance characteristics of trained machine learning (ML) and artificial intelligence (AI) models
