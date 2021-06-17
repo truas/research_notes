@@ -1,1 +1,1 @@
-![[2021_FruitFly_example.png]]
+![[2021_PreregisteringNLP_arch.png]]
