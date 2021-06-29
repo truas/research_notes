@@ -1,1 +1,1 @@
-![[2021_PreregisteringNLP_arch.png]]
+![[2021_FixBenchmarkNLP_points.png]]
