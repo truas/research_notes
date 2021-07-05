@@ -1,1 +1,1 @@
-![[2021_PoisonedWordEmbeddings_attack.png]]
+![[2021_AFT_goal.png]]
