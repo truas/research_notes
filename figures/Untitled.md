@@ -1,1 +1,1 @@
-![[2021_AFT_goal.png]]
+![[2021_GraphNN_taxonomy.png]]
