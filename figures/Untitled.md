@@ -1,1 +1,0 @@
-![[2021_GraphNN_taxonomy.png]]
