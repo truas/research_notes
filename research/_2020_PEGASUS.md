@@ -8,7 +8,7 @@
 - Year: #2020
 ---
 ### Major Contributions
-- They use a encoder-decore architecture in their abstractive summarization system
+- They use a encoder-decoder architecture in their abstractive summarization system
 - Their [[MLM]] masks entire sentences to generate them - pre-training objective
 	- Namely [[GSG|Gap Sentence Generation]]
 ---
