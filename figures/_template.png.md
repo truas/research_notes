@@ -1,1 +1,1 @@
-![[2021_ERNIE3_UniversalKnowledgeTextPrediction.png]]
+![[2020_TGDGA_architecture.png]]
