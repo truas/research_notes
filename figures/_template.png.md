@@ -1,1 +1,1 @@
-![[2020_TGDGA_architecture.png]]
+![[2021_ThePile_details.png]]

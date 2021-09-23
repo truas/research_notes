@@ -25,7 +25,7 @@
 	- *Activations* - ReLU
 		- [[GeLU]],[[Swish]], [[ELU]], [[SeLU]], [[Sigmoid]], [[Softplus]], [[GLU]] variations
 	- *Normalization* - [[RMS|root-mean-square]]  and [[Fixup]]
-	- *Depth* - trade-offs between the width of the feedforwrd blocks and depth
+	- *Depth* - trade-offs between the width of the feedforawrd blocks and depth
 	- *Embeddings* -  tying only encoder input and decoder input embeddings, tying only decoder input and output embeddings, and untying all the embeddings; we explored factorizing the embedding matrix into two smaller matrices
 	- *Parameter sharing* - we explored sharing the parameters of the Transformer layers inspired by the ALBERT model of Lan et al. (2020). - Factorize embeddings, Shared embeddings
 	- *Softmax* - variations of softmax - Adaptative Softmax, Mixture of Softmaxes, 
