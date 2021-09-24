@@ -1,0 +1,1 @@
+![[2021_SummarizingBooks_procedure.png]]
