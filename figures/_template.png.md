@@ -1,1 +1,1 @@
-![[2021_ThePile_details.png]]
+![[2021_Primer_Proposal_general.png]]
