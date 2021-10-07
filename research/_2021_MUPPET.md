@@ -4,7 +4,7 @@
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/WVG9CZQP)
 - Authors: [[Armen Aghajanyan]] [[Sonal Gupta]] 
 - Topics: [[nlp_lm]] [[nlp_meeting_sum]]
-- Venue: #arXix 
+- Venue: #arXiv
 - Year: #2021
 ---
 ### Major Contributions

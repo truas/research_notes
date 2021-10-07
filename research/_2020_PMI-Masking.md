@@ -4,7 +4,7 @@
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/GSIEJE9X)
 - Authors: [[Yoav Levine]] [[Yoav Shoham]]
 - Topics: [[nlp_lm]] [[nlp_transformers]] [[nlp_mlm]]
-- Venue: #arXix
+- Venue: #arXiv
 - Year: #2021
 ---
 ### Major Contributions
