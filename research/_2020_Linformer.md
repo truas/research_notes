@@ -34,7 +34,7 @@
 	- [[_2020_Reformer]] presents another, more efficient, approach ([[LSH]]) reducing the complexity even more. However its gains are only worth it for long sequences (>2048)
 - the stochastic matrix formed by self-attention can be approximated by a low-rank matrix
 - [[_2020_Linformer]] trained on the same corpus as [[_2019_BERT]] : BookCorpus and  Wikipedia
-- ![[_2020_Linformer_attention_complexity.png]]
+- ![[2020_Linformer_attention_complexity.png]]
 - They apply singular value decomposition into P across different layers and different heads of the model, and plot the normalized cumulative singular value averaged over 10k sentences. The results exhibit a clear long-tail spectrum distribution across each layer, head and task. This implies that most of the information of matrix P
 can be recovered from the first few largest singular values.
 	- This SVD investigation apparently inspired the [[_2020_Performer]] the idea is the same. using the K, V, Q vectors-matrices

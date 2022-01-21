@@ -1,1 +1,1 @@
-![[2022_RETRO_architecture.png]]
+![[2022_data2vec_arch.png]]
