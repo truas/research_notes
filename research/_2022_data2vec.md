@@ -4,7 +4,7 @@
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/SJ4CD6HG)
 - Authors: [[Alexei Baevski]] [[Michael Auli]] 
 - Topics: [[nlp_train]] [[nlp_cv]] [[nlp_speech]]
-- Venue: #none
+- Venue: #none #whitepaper
 - Year: #2022
 ---
 ### Major Contributions
