@@ -1,1 +1,1 @@
-![[2022_data2vec_arch.png]]
+![[2021_GEM_dataset_details.png]]
