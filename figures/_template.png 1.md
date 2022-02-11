@@ -1,0 +1,1 @@
+![[2022_CM3_example_arch.png]]
