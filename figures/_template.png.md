@@ -1,1 +1,1 @@
-![[2021_GEM_dataset_details.png]]
+![[2019_SentenceBERT_Ablation_Siamese.png]]
