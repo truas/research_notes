@@ -1,1 +1,1 @@
-![[2019_SentenceBERT_Ablation_Siamese.png]]
+![[2020_Meta_and_Transfer.png]]
