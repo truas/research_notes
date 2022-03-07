@@ -1,1 +1,1 @@
-![[2021_NLP_Tasks_Meta_Learning.png]]
+![[2022_CpomputeTrendML_domains.png]]
