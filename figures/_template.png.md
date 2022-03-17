@@ -1,1 +1,1 @@
-![[2022_CpomputeTrendML_domains.png]]
+![[2022_Kformer_arch.png]]
