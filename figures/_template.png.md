@@ -1,1 +1,1 @@
-![[2022_Kformer_arch.png]]
+![[2020_NLI_Survey_neural_general.png]]
