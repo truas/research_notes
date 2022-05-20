@@ -1,1 +1,1 @@
-![[2019_COMET_arch.png]]
+![[2022_WhatArchitecture_ZeroShot_process.png]]
