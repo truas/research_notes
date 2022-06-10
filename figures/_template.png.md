@@ -1,1 +1,1 @@
-![[2022_WhatArchitecture_ZeroShot_process.png]]
+![[2022_UnifyingLM_UL2_denoising.png]]
