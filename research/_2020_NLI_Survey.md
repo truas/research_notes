@@ -21,6 +21,6 @@
 - Section 3.1. lists several knowledge resouces
 - Section 4.4. shows approaches for incorporating knowledge (neural)
 - 
-- ![[202_NLI_Survey_areas.png]]
+- ![[2020_NLI_Survey_areas.png]]
 - ![[2020_NLI_Survey_neural_general.png]]
 ---

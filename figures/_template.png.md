@@ -1,1 +1,1 @@
-![[2022_UnifyingLM_UL2_denoising.png]]
+![[2022_FrozenLM_RecursiveLM.png]]
