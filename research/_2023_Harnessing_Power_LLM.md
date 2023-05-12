@@ -38,12 +38,28 @@
 	- It’s advisable to choose models pre-trained on fields of data that are similar to downstream tasks.
 	- LLMs excel at knowledge-intensive tasks due to their massive real-world knowledge.
 	- LLMs struggle when the knowledge requirements do not match their learned knowledge, or when they face tasks that only require contextual knowledge, in which case fine-tuned models can work as well as LLMs.
+	- With the exponential increase of model scales, LLMs become especially capable of reasoning like arithmetic reasoning and commonsense reasoning. 
+	- Emergent abilities become serendipity for uses that arise as LLMs scale up, such as ability in word manipulation and logical ability. 
+	- In many cases, performance does not steadily improve with scaling due to the limited understanding of how large language models’ abilities change as they scale up.
+	- Fine-tuned models or specified models still have their space in tasks that are far from LLMs’ pretraining objectives and data. 
+	- LLMs are excellent at mimicking human, data annotation and generation. They can also be used for quality evaluation in NLP tasks and have bonuses like interpretability.
+	- LLMs are better suited to handle real-world scenarios compared to fine-tuned models. However, evaluating the effectiveness of models in the real world is still an open problem
+	- Light, local, fine-tuned models should be considered rather than LLMs, especially for those who are sensitive to the cost or have strict latency requirements. Parameter-Efficient tuning can be a viable option for model deployment and delivery.
+	- The zero-shot approach of LLMs prohibits the learning of shortcuts from task-specific datasets, which is prevalent in fine-tuned models. Nevertheless, LLMs still demonstrate a degree of shortcut learning issues. 
+	- Safety concerns associated with LLMs should be given utmost importance as the potentially harmful or biased outputs, and hallucinations from LLMs can result in severe consequences. Some methods such as human feedback have shown promise in mitigating these problems.
 - The importance of pretraining data lies in its capacity to inform the language model with a rich understanding of word knowledge, grammar, syntax, and semantics, as well as the ability to recognize context and generate coherent responses.
 - Considering Finetuning data:
 	- **Zero annotated data:** In scenarios where annotated data is unavailable, utilizing LLMs in a zero-shot setting proves to be the most suitable approach.
 	- **Few annotated data:** In this case, the few-shot examples are directly incorporated in the input prompt of LLMs, which is named as in-context learning, and these examples can effectively guide LLMs to generalize to the task. As reported in [16], one-shot and few-shot performance make significant gains, even matching the performance of the SOTA fine-tuned open-domain models
 	- **Abundant annotated data:** With a substantial amount of annotated data for a particular task available, both fine-tuned models and LLMs can be considered. In most cases, fine-tuning the model can fit the data pretty well. Although, LLMs can be used to meet some constraints such as privacy [99]
 	- Natural Language Generation broadly encompasses two major categories of tasks, with the goal of creating coherent, meaningful, and contextually appropriate sequences of symbols. The first type focuses on converting input texts into new symbol sequences, as exemplified by tasks like paragraph summarization and machine translation. The second type, "open-ended" generation, aims to generate text or symbols from scratch to accurately match input descriptions such as crafting emails, composing news articles, creating fictional stories and writing code.
+	- As an alternative to real-world knowledge in LLMs, access to extra knowledge is allowed, and models can thus get enough knowledge for a task via retrieval augmentation. The basic idea of retrieval augmentation is to add an extra information retrieval step prior to making predictions, in which, some useful texts related to the task will be retrieved from a large corpus
+- . One such study evaluates the few-shot learning performance of GPT-3 on text classification and information extraction tasks [129]. and reveal that the examined LLMs are susceptible to majority label bias and position bias, where they tend to predict answers based on the frequency or position of the answers in the training data.
+- Future Challenges:
+	- Evaluation of proposed models on real-world “datasets”
+	- Model Alignment. Ensuring that increasingly powerful and autonomous models align with human values and priorities is essential.
+	- Safety Alignment. While discussion of AI existential risks is important, concrete research is needed to guarantee the safe development of advanced
+	- Performance Prediction with Scaling. It is difficult to anticipate how model performance will change as model size and complexity increases dramatically.
 - ![[2023_Harnessing_Power_LLM_tree.png]]
 - 
 - ![[2023_Harnessing_Power_LLM_summarymodels.png]]
