@@ -1,1 +1,1 @@
-![[2023_Emergent_Bhaviour_LLM_results_metrics.png]]
+![[2023_Harnessing_Power_LLM_decision.png]]
