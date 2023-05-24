@@ -9,7 +9,7 @@ LLaMA: Open and Efficient Foundation Language Models
 
 ---
 ### Major Contributions
-- We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.
+- We introduce [[LLaMa]], a collection of foundation language models ranging from 7B to 65B parameters.
 ---
 ### Secondary Contribution
 - In particular, LLaMA-13B outperforms GPT-3 (175B) on most benchmarks, and LLaMA65B is competitive with the best models, Chinchilla-70B and PaLM-540B
