@@ -1,1 +1,1 @@
-![[2023_Harnessing_Power_LLM_decision.png]]
+![[2023_False_Promise_LLM_comparision.png]]
