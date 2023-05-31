@@ -1,1 +1,1 @@
-![[2023_False_Promise_LLM_comparision.png]]
+![[2022_Super_Natural_Instructions_summary.png]]
