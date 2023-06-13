@@ -1,1 +1,1 @@
-![[2022_Super_Natural_Instructions_summary.png]]
+![[2023_Tree_of_Thought_process.png]]
