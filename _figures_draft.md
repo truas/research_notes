@@ -1,1 +1,1 @@
-![[2023_Tree_of_Thought_process.png]]
+![[2023_Self_Eval_Decoding_framework.png]]
