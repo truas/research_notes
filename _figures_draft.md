@@ -1,1 +1,1 @@
-![[2023_Self_Eval_Decoding_framework.png]]
+![[2023_RWKV_architecture.png]]
