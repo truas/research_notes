@@ -1,1 +1,1 @@
-![[2023_RWKV_architecture.png]]
+![[2022_CrossTask_Generalization_instructions.png]]
