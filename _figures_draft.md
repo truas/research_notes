@@ -1,1 +1,1 @@
-![[2023_Reasoning_LM_Prompting_taxonomy.png]]
+![[2023_Models_Follow_Instructions_pipeline.png]]
