@@ -1,1 +1,1 @@
-![[2023_Self_Instruct_prompt_root_verbs.png]]
+![[2023_Reasoning_LM_Prompting_taxonomy.png]]
