@@ -1,1 +1,1 @@
-![[2022_CrossTask_Generalization_instructions.png]]
+![[2023_Self_Instruct_prompt_root_verbs.png]]
