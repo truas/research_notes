@@ -1,1 +1,1 @@
-![[2023_Models_Follow_Instructions_pipeline.png]]
+![[2023_Efficient_Methods_NLP_taxonomy.png]]
