@@ -1,1 +1,1 @@
-![[2023_Efficient_Methods_NLP_taxonomy.png]]
+![[2023_LLM_Evaluation_idea.png]]

@@ -1,0 +1,64 @@
+### Can Large Language Models Be an Alternative to Human Evaluation?
+---
+- [Zotero Select Link](zotero://select/groups/2480461/items/5EXL95KN)
+- [Zotero URI](https://www.zotero.org/groups/2480461/items/5EXL95KN)
+- Authors: [[Cheng-Han Chiang]]  [[Hung-yi Lee]] 
+- Topics: [[nlp_lm]] [[nlp_evaluation]]
+- Venue: #arxiv #ACL
+- Year: #2023
+
+---
+### Major Contributions
+- we explore if such an ability of the LLMs can be used as an alternative to human evaluation [[LLM-Evaluation]]
+---
+### Secondary Contribution
+- We show that the result of LLM evaluation is consistent with the results obtained by expert human evaluation: the texts rated higher by human experts are also rated higher by the LLMs
+- We also find that the results of LLM evaluation are stable over different formatting of the task instructions and the sampling algorithm used to generate the answer.
+- LLM evaluation is more reproducible. By specifying the model used for LLM evaluation, the random seed, and the hyperparameters used to generate the answers from the LLM, the LLM evaluation result is more likely to be reproduced.
+- the evaluation of each sample is independent of each other in LLM evaluation.
+	- Humans tend to compare the current sample to the ones they have previously seen and this affects their ratings.
+- LLM evaluation is cheaper and faster
+- Using LLM evaluation, rather than human evaluation, can minimize the need for human exposure to objectionable content
+- We do not recommend that future researchers completely eliminate human evaluation; rather, we believe that human evaluation should be used in conjunction with LLM evaluation
+---
+### Limitations/Future Work
+- First, LLM may possess incorrect factual knowledge (Cao et al., 2021), so it is not suitable to use them in tasks that involve factual knowledge. 
+- LLMs trained to behave in a certain way can be biased toward certain responses
+- LLMs can still generate harmful and biased responses (Ganguli et al., 2022; Perez et al., 2022), which are violative of basic ethics, and LLM evaluation results will be highly doubtful
+- Another important limitation of LLM evaluation is that LLMs lack the ability to process visual cues in task instructions, unlike human evaluation. Human evaluators can use formattings such as special fonts or text styles to focus on important parts of the instructions
+---
+### Notes (Try to use backlinks)
+- ![[2023_LLM_Evaluation_idea.png]]
+- To compare the result of LLM evaluation and show its effectiveness, we compare the result of LLM evaluation with human evaluation conducted by English teachers. To make a fair and meaningful comparison, the instructions, samples, and questions in human evaluation are formatted similarly to those in LLM evaluation. The main difference between LLM evaluation and human evaluation is that in human evaluation, the human evaluators answer the question by choosing the answer from a pre-defined set of options (the 1-5 Likert scale scores), as shown in the upper right in Figure 1. In LLM evaluation, we instead let the LLM freely generate sentences and extract the score from the generated sentences using some simple rules
+- We select open-ended story generation as an example because Karpinska et al. (2021) show that workers from Amazon Mechanical Turk (AMT) cannot distinguish GPT-2 (Radford et al., 2019) generated and human-written stories
+- [[LLM-Evaluation]]: Grammatically, Cohesiveness, Likability, Relevance
+- **Expert human evaluators prefer humanwritten stories:**
+	- For all four attributes, teachers rate the humanwritten stories higher than GPT-2-generated stories.
+	- we also find that the agreements among experts are lower on GPT-2-generated texts and on the likability. This shows that experts tend to have less agreement on model-generated texts and on a subjective attribute (likability),
+- **T0 and text-curie-001 do not show clear preference toward human-written stories:**
+	- For T0, we can see that T0 rates human-written stories higher than GPT-2-generated stories on grammatically, likability, and relevance.
+	- the IAA in terms of the percentage of exact agreement among three different sampled answers is overall very low.
+- **text-davinci-003 shows clear preference toward human-written stories just like English teachers:**
+	- text-davinci-003 rates humanwritten stories much higher than model-generated stories on all four attributes,
+	- LLM evaluation using text-davinci-003 yields more convincing results than using human evaluation on AMT for open-ended story generation
+- **ChatGPT rates like human experts and can explain its own decision well:**
+	- ChatGPT also shows a clear preference for human-written stories,
+	- (1): ChatGPT is able to provide a detailed explanation of why it gives a certain rating. It will reference the sentences in the stories and prompts to support its rating. 
+	- (2): ChatGPT sometimes refuses to rate the likability of the story because "I am an AI and I do not have the ability to experience enjoyment". In such cases, we regenerate the response until it gives a rating. 
+	- (3): we find that ChatGPT tends to rate low likability on violent or impolite stories, which is likely because it is trained to provide safe and unharmful replies, making ChatGPT dislike brutal and profane stories.
+- **Experts mostly agree with the ratings and explanations of ChatGPT:**
+	- The teachers mostly agree with the rating and consider the explanation from ChatGPT reasonable. 
+		- Interestingly, one teacher told us she cannot agree with ChatGPT’s rating on grammaticality because ChatGPT considers punctuation errors as grammar errors, but she does not think punctuation errors are grammar errors.
+- **text-davinci-003 tends to give higher ratings and ChatGPT is the opposite:**
+	- he rating on the same attribute of the same type of text tends to be higher for text-davinci-003 compared with human rating; contrarily, ChatGPT is more fastidious and prone to give lower scores. 
+		- This shows that different LLMs have distinct tendencies regarding the rating.
+- it is unclear whether those LLMs agree with the teachers’ rating on each individual story.
+- LLMs have been shown to be sensitive to the instructions used to query the LLM sometimes (Zhao et al., 2021; Sanh et al., 2022).
+- The story telling generation was evaluated using:
+	- We experiment with two different instructions by changing the instruction or question in Figure 1: (1) We prepend the sentence, "(You are a human worker hired to rate the story fragment.)
+		- We try to provide the LLM a persona for it to better understand its role. This is inspired by previous work that reported GPT-3 can yield different results when giving them a persona (Zeng et al., 2022)
+	- (2) We ask the LLMs to explain their decision by appending the following sentence after the question: Please also explain your decision. Here, we would like to know if LLM will rate the stories differently when they are asked to justify their decision.
+	- In summary, as long as the stories are evaluated using the same instructions using LLM evaluation, such evaluation and comparison are meaningful.
+		- Different sampling temperature seem not to affect the results as well
+- Still, we find that the best InstructGPT and ChatGPT can rate the quality of texts like human experts on the two tasks we used as examples. Overall, the results in this paper demonstrate that LLM evaluation has the potential to be used to evaluate NLP systems and algorithms.
+---
