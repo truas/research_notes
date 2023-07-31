@@ -1,1 +1,1 @@
-![[2023_LLM_Evaluation_idea.png]]
+![[2022_NL_Augmenter_example.png]]
