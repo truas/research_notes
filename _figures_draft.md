@@ -1,1 +1,1 @@
-![[2023_ROGUE_Scores_decisions.png]]
+![[2023_Synthetic_Data_Sycophancy_datasets.png]]

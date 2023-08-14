@@ -10,8 +10,8 @@
 ---
 ### Major Contributions
 - We explore approaches with varying amounts of human effort, from instructing LMs to write yes/no questions to making complex Winogender schemas with multiple stages of LM-based generation and filtering
-- we show it is possible to generate many diverse evaluations with significantly less human effort by using LMs
-- We generate 154 datasets and discover new cases of inverse scaling where LMs get worse with size
+	- we show it is possible to generate many diverse evaluations with significantly less human effort by using LMs
+	- We generate 154 datasets and discover new cases of inverse scaling where LMs get worse with size
 - [dataset showcase](https://www.evals.anthropic.com/model-written/)
 - [github](https://github.com/anthropics/evals)
 ---
