@@ -1,1 +1,1 @@
-![[2023_Synthetic_Data_Sycophancy_datasets.png]]
+![[2023_Unnatural_Instructions_example.png]]
