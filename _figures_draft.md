@@ -1,1 +1,1 @@
-![[2023_Unnatural_Instructions_example.png]]
+![[2020_DiffMask_examples.png]]
