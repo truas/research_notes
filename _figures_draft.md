@@ -1,1 +1,1 @@
-![[2020_DiffMask_examples.png]]
+![[2023_LENS_examples.png]]
