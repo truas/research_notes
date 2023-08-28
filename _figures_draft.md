@@ -1,1 +1,1 @@
-![[2023_LENS_examples.png]]
+![[2023_NLP_Community_Metasurvey_questions_03.png]]
