@@ -1,1 +1,1 @@
-![[2023_SurveyLLM_statistics.png]]
+![[2023_LLM_Self_Improving_architecture.png]]
