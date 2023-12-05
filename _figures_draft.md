@@ -1,1 +1,1 @@
-![[![[2023_LLM_Self_Improve_prompts.png]].png]]
+![[2023_Exchange_of_Thought_communication.png]]
