@@ -1,1 +1,1 @@
-![[2023_DPO_LLM_Reward_comparison.png]]
+![[2023_Text_Embeddings_Reveal_architecture.png]]
