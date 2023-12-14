@@ -1,1 +1,1 @@
-![[2023_Exchange_of_Thought_communication.png]]
+![[2023_DPO_LLM_Reward_comparison.png]]
