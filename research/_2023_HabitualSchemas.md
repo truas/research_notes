@@ -23,5 +23,6 @@
 - The framework of deriving explicit knowledge from LLMs has been explored in other work, though primarily in the context of IR and commonsense reasoning systems rather than personabased dialogue generation.
 	- West et al. (2022) show that implicit knowledge within an LLM can be distilled into a symbolic commonsense knowledge graph using prompt engineering techniques.
 - Following (Zheng and Huang, 2022), we employ a prompting-based approach in which a pre-trained generative LLM is used to produce a response utterance, provided a prompt that is dynamically constructed from the dialogue history and the selected schemas.
+- “we focus on the problem of automatically inducing event schemas from an unstructured persona P = {p1, p2, ..., pn}, where pi are natural language “facts” such as “I like to play tennis.”2. Formally, we represent an event schema as a tuple ⟨H, Pr, S, Po, G, E⟩. H is a schema header; a sentence characterizing the overall schema event. Pr, S, and Po are sets containing schema preconditions, static conditions (conditions expected to hold throughout the overall event), and postconditions, respectively. G is a set containing typical goals of participants of the event, and E is a set containing typical episodes (i.e., substeps) of the event” (Kane and Schubert, 2023, p. 3)
 - ![[2023_HabitualSchemas_approach.png]]
 ---

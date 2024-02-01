@@ -1,1 +1,1 @@
-![[2023_Text_Embeddings_Reveal_architecture.png]]
+![[2024_Meta_Prompting_example.png]]
