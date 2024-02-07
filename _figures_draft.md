@@ -1,1 +1,1 @@
-![[2024_Meta_Prompting_example.png]]
+![[2024_LLM_Congnitive_Synergy_results_fixed_persona.png]]
