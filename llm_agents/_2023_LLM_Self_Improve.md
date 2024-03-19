@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/DVP7U9E7)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/DVP7U9E7)
 - Authors: [[Jiaxin Huang]] [[Jiawei Han]]
-- Topics: [[nlp_agents]] [[nlp_llm]]
+- Topics: [[nlp_agent]] [[nlp_llm]]
 - Venue: #arxiv #EMNLP  #google 
 - Year: #2023
 

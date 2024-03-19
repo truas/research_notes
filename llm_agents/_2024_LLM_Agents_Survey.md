@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/GQD8BLYC)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/GQD8BLYC)
 - Authors: [[Taicheng Guo]] [[Olaf Wiest]] [[Xiangliang Zhang]] 
-- Topics: [[nlp_agents]] [[nlp_llm]] [[nlp_survey]]
+- Topics: [[nlp_agent]] [[nlp_llm]] [[nlp_survey]]
 - Venue: #arxiv
 - Year: #2024
 

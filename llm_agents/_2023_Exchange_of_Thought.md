@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/97X3273H)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/97X3273H)
 - Authors: [[Zhangyue Yin]] [[Xipeng Qiu]] 
-- Topics: [[tag1]] [[tag2]]
+- Topics: [[nlp_agent]] [[nlp_llm]]
 - Venue: #arxiv #EMNLP
 - Year: #2023
 
