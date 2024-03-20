@@ -1,1 +1,1 @@
-![[2024_LLM_Agents_Survey_architectures.png]]
+![[2024_ToolEmu_overview.png]]
