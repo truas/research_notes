@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/EETMJEJ3)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/EETMJEJ3)
 - Authors: [[Saif Mohammad]] 
-- Topics: [[nlp_tools]]
+- Topics: [[nlp_tools]] #scientometrics
 - Venue: #ACL
 - Year: #2020
 ---

@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/ZRGCCW2M)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/ZRGCCW2M)
 - Authors: [[Emily Bender]]  [[Alexander Koller]]
-- Topics: [[nlp]] [[nlp_nlu]]
+- Topics: [[nlp]] [[nlp_nlu]] [[nlp_explain]]
 - Venue: #ACL 
 - Year: #2020
 ---

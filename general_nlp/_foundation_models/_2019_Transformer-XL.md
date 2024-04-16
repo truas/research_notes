@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/QZ97WDKX)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/QZ97WDKX)
 - Author: [[Zihang Dai]] [[Ruslan Salakhutdinov]] [[Quoc Le]]
-- Topics: [[nlp_transformers]] [[SOP]] [[relative positioning]]
+- Topics: [[nlp_transformers]]
 - Venue: #ACL 
 - Year: #2019
 ---

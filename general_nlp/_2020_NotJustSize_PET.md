@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/S3NQ8WZ3)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/S3NQ8WZ3)
 - Authors: [[Timo Schick]] [[Hinrich Schültze]]
-- Topics: [[topic1]] [[topic2]]
+- Topics: [[nlp_lm]]
 - Venue: #arXiv
 - Year: #2020
 ---

@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/29ITNS2G)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/29ITNS2G)
 - Authors: [[Elizabeth Clark]] [[Noah Smith]] 
-- Topics: [[nlp_eval]] [[nlp_ppd]] [[nlp_text_generation]]
+- Topics: [[nlp_eval]] [[nlp_ppd]] [[nlp_text_generation]] 
 - Venue: #ACL
 - Year: #2021
 ---

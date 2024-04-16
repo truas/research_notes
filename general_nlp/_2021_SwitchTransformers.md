@@ -1,10 +1,10 @@
-### SWITCH TRANSFORMERS: SCALING TO TRILLION PARAMETER MODELS WITH SIMPLE AND EFFICIENT SPARSITY
+### Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
 ---
 - [Zotero Select Link](zotero://select/groups/2480461/items/B774VNFA)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/B774VNFA)
 - Authors: [[William Fedus]] [[Noam Shazeer]]
 - Topics: [[nlp_transformers]] [[_2020_NLP_training_cost]] [[nlp_ann]] [[ann_cost]] [[ann_architecture]]
-- Venue: #arXiv
+- Venue: #arXiv #JMLR
 - Year: #2021
 ---
 ### Major Contributions

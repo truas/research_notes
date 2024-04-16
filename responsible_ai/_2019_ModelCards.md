@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/BQ8A8JX2)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/BQ8A8JX2)
 - Authors: [[Margareth Mitchell]] [[Timnit Gebru]]
-- Topics: [[topic1]] [[topic2]]
+- Topics: [[responsible_ai]]
 - Venue: #FAT [Proceedings of the Conference on Fairness, Accountability, and Transparency](https://dl.acm.org/doi/proceedings/10.1145/3287560 "FAT* '19: Proceedings of the Conference on Fairness, Accountability, and Transparency")
 - Year: #2019
 ---

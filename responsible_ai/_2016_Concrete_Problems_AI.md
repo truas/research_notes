@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/I64N8KTB)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/I64N8KTB)
 - Authors: [[Dario Amodei]] [[Chris Olah]] [[Paul Christiano]] [[Dan Mané]]  
-- Topics: [[nlp_explain]] [[nlp_ethics]]
+- Topics: [[nlp_explain]] [[nlp_ethics]] [[responsible_ai]]
 - Venue: #arxiv
 - Year: #2016
 

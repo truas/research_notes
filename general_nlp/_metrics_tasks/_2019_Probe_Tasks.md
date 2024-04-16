@@ -1,4 +1,4 @@
-### WHAT DO YOU LEARN FROM CONTEXT? PROBING FOR SENTENCE STRUCTURE IN CONTEXTUALIZED WORD REPRESENTATIONS
+### What do you learn from context? Probing for sentence structure in contextualized word representations
 ---
 - [Zotero Select Link](zotero://select/groups/2480461/items/CDHDJG99)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/CDHDJG99)

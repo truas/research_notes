@@ -1,10 +1,10 @@
-### OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER
+### Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
 ---
 - [Zotero Select Link](zotero://select/groups/2480461/items/UDYTZB76)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/UDYTZB76)
 - Authors: [[Noam Shazeer]] [[Quoc Le]] [[Jeff Dean]] [[Geoffrey Hinton]]
 - Topics: [[topic1]] [[topic2]]
-- Venue: #venue
+- Venue: #ICLR
 - Year: #2017
 ---
 ### Major Contributions

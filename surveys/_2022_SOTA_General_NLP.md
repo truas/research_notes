@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/KE5YDSBE)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/KE5YDSBE)
 - Authors: [[first author]] [[(optional) relevant author]] [[last author]] 
-- Topics: [[tag1]] [[tag2]]
+- Topics: [[nlp_survey]]
 - Venue: #arXiv 
 - Year: #2022
 ---

@@ -4,7 +4,7 @@
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/RG3XGQCS)
 - Authors: [[Timnit Gebru]] [[Kate Crawford]]
 - Topics: [[ml]] [[ml_datasets]]
-- Venue: #arXiv 
+- Venue: #arXiv #responsible_ai
 - Year: #2020
 ---
 ### Major Contributions

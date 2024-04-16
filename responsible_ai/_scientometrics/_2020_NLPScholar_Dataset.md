@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/UFRBWH92)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/UFRBWH92)
 - Authors: [[Saif Mohammad]] 
-- Topics: [[nlp_tools]]
+- Topics: [[nlp_tools]] [[scientometrics]]
 - Venue: #LREC
 - Year: #2020
 ---

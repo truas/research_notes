@@ -4,7 +4,7 @@
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/VLD3UUNR)
 - Author: [[Li Dong]] [[Hsiao-Wuen Hon]]
 - Topics: [[language_models]] [[topic2]]
-- Venue: #arXiv 
+- Venue: #arXiv #NIPS 
 - Year: #2019
 ---
 ### Goal

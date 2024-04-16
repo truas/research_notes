@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/3QD9NGQE)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/3QD9NGQE)
 - Authors: [[Emily M. Bender]] [[Shmargaret Smitchell]] [[Timnit Gebru]]
-- Topics: [[nlp_lm]] [[nlp_bias]]
+- Topics: [[nlp_lm]] [[nlp_bias]] [[responsible_ai]]
 - Venue: #FAccT
 - Year: #2021
 ---

@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/FPXZ45Z4)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/FPXZ45Z4)
 - Authors: [[Opher Lieber]] [[Yoav Shoham]] 
-- Topics: [[nlp_text_generation]] [[nlp_ann]] [[nlp_arch]]
+- Topics: [[nlp_text_generation]] [[nlp_ann]] [[nlp_arch]] [[nlp_transformers]]
 - Venue: #none #whitepaper
 - Year: #2021
 ---

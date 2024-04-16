@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/ZM2RYLWB)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/ZM2RYLWB)
 - Authors: [[Emma Strubell]] [[last auhtor]] [[Andrew McCallum]]
-- Topics: [[nlp_green]] [[ai_green]]
+- Topics: [[nlp_green]] [[ai_green]] #responsible_ai 
 - Venue: #ACL 
 - Year: #2019
 ---

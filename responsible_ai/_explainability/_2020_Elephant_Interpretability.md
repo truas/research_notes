@@ -3,7 +3,7 @@
 - [Zotero Select Link](zotero://select/groups/2480461/items/YLEKDTRL)
 - [Zotero URI](https://www.zotero.org/groups/2480461/items/YLEKDTRL)
 - Authors: [[Jasming Bastings]]  [[Katja Filippova]] 
-- Topics: [[tag1]] [[tag2]]
+- Topics: [[nlp_explain]]
 - Venue: #arxiv #ACL #google #workshop
 - Year: #2020
 
