@@ -1,1 +1,1 @@
-![[2023_Personality_Traits_validity.png]]
+![[2023_Multiagent_Debate_agent_detail_round.png]]
