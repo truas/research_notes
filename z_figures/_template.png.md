@@ -1,1 +1,0 @@
-![[2023_LLM_Self_Improving_architecture.png]]
