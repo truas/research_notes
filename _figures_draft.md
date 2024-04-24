@@ -1,1 +1,1 @@
-![[2023_Multiagent_Debate_agent_detail_round.png]]
+![[2024_Multiagent_Debate_Embeddings_CIPHER.png]]
