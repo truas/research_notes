@@ -1,1 +1,1 @@
-![[2024_Multiagent_Debate_Embeddings_CIPHER.png]]
+![[2024_Taxonomy_Regulation_Risks_AI.png]]
