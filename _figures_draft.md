@@ -1,1 +1,1 @@
-![[2024_Taxonomy_Regulation_Risks_AI.png]]
+![[2023_Reflexion_diagram_algorithm.png]]
