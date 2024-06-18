@@ -1,1 +1,1 @@
-![[2024_Guaranteed_SafeAI_Approach.png]]
+![[2024_CoMM_CoT_Example.png]]
