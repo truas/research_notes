@@ -74,5 +74,5 @@
 	- 10^25 FLOPS to categorize highrisk seems a bit old fashioned (these things get old fast)
 		- maybe this should be replaced by a more modular hollistic view - although some categorization on potential risks are interesting
 	- Open models are exempt from regulatory restrictions?
-	- The contributions is a bit loose in terms of: that's my contribution and that is a summary of things we'read
+	- The contributions is a bit loose in terms of: that's my contribution and that is a summary of things we've read
 ---

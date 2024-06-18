@@ -1,1 +1,1 @@
-![[2023_Reflexion_diagram_algorithm.png]]
+![[2024_Guaranteed_SafeAI_Approach.png]]
