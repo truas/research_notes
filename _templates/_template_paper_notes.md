@@ -11,12 +11,15 @@
 ### Major Contributions
 - 
 ---
-### Secondary Contribution
+### Strengths
 - 
 ---
-### Limitations/Future Work
+### Weakness
 - 
 ---
-### Notes (Try to use backlinks)
+### Notes
+- 
+---
+### Questions
 - 
 ---

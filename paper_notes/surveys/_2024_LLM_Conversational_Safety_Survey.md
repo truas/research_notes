@@ -3,7 +3,7 @@
 - [Zotero Select Link](link)
 - [Zotero URI](link)
 - Authors: [[Zhichen Dong]] [[Yu Qiao]] 
-- Topics: [[tag1]] [[ai_safety]] [[nlp_llm]] [[survey_ai_safety]]
+- Topics: [[ai_safety]] [[nlp_llm]] [[survey_ai_safety]]
 - Venue: #arxiv #NAACL
 - Year: #2024
 
