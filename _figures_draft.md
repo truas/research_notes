@@ -1,1 +1,1 @@
-![[2024_MultiBranch_LLM_overview_task.png]]
+![[2024_OpinionDynamics_LLM_schematic.png]]
