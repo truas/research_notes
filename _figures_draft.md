@@ -1,1 +1,1 @@
-![[2024_OpinionDynamics_LLM_schematic.png]]
+![[2024_BeyondAccuracy_taxonomy.png]]

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"91f52cc8c7d57d58","type":"text","text":"this is a note\n","x":-460,"y":9,"width":250,"height":51,"color":"6"},
+		{"id":"78d3826d2898b080","type":"text","text":"this is a note\n","x":-380,"y":-240,"width":315,"height":85,"color":"3"},
+		{"id":"9691c483004cedd2","type":"link","url":"https://www.google.com","x":160,"y":35,"width":400,"height":400},
+		{"id":"174802e192062b99","type":"file","file":"paper_notes/_figures/2023_Reflexion_diagram_algorithm.png","x":-500,"y":200,"width":400,"height":220}
+	],
+	"edges":[
+		{"id":"e921ec656133a4e7","fromNode":"78d3826d2898b080","fromSide":"bottom","toNode":"91f52cc8c7d57d58","toSide":"top"},
+		{"id":"4e182d2d5e04dcc1","fromNode":"78d3826d2898b080","fromSide":"bottom","toNode":"91f52cc8c7d57d58","toSide":"right"},
+		{"id":"f731c4813a6203a8","fromNode":"78d3826d2898b080","fromSide":"bottom","toNode":"91f52cc8c7d57d58","toSide":"bottom"},
+		{"id":"4a3b0e4f2fb8f011","fromNode":"9691c483004cedd2","fromSide":"top","toNode":"78d3826d2898b080","toSide":"right"}
+	]
+}
