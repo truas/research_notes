@@ -1,25 +1,38 @@
-### Title
----
-- [Zotero Select Link](link)
-- [Zotero URI](link)
-- Authors: [[First Author]] [[Important Author]] [[Last Author]] 
+- [Link](ADD LINK)
+- Authors: [[(A) First Author]] [[(A) Important Author]] [[(A) Last Author]]
 - Topics: [[tag1]] [[tag2]]
 - Venue: #arxiv
-- Year: #year
+- Year: #y0000
+- Read: {{date}}
+
+**Short Summary:**
+This paper is about...
 
 ---
-### Major Contributions
+### Contributions
+
 - 
+
 ---
-### Strengths
+### Summary of Strengths
+
 - 
+
 ---
-### Weakness
+### Summary of Weaknesses
+
 - 
+
+---
+### Limitations/Future Work
+
+- 
+
 ---
 ### Notes
+
 - 
+
 ---
-### Questions
-- 
----
+### Important Figures
+- Store as `./paper_notes/\_figures/YEAR_keywords.png`
