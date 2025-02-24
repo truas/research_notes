@@ -1,8 +1,8 @@
 - [Link](https://arxiv.org/pdf/2410.07283)
 - Authors: [[(A) Donghyun Lee]] [[(A) Mo Tiwari]]
-- Topics: [[tag1]] [[tag2]]
+- Topics: [[ai_safety]] [[multi-agent]] [[prompt_injection]]
 - Venue: #arxiv
-- Year: #y0000
+- Year: #y2024
 - Read: 2025-02-24
 
 **Short Summary:**
